@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mary Waniku Njuguna
-- 👀 A professional data entry specialist, data analyst and  an aspiring data scientist
+- 👀 A professional data entry specialist, data analyst and a data scientist specializing in public health.
 - 💞️ I’m currently working on Data science projects focusingon public health and i also offer services like data analysis, powered dashboards.
 - 📫 Get intouch with me via:-
 -                          -email: maryshi062@gmail.com
